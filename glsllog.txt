@@ -1,0 +1,3 @@
+
+0(10) : error C7616: global variable gl_ProjectionMatrix is removed after version 140
+
